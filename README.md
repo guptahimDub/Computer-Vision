@@ -1,5 +1,6 @@
 # Computer-Vision
 Histograms: 
+
 a. Read a RGB colour image (e.g. png) and display it. 
 
 b. Convert the RGB image into Lab colour system and display each component (L,a,b) as an grey level image (See section 2.7.4 in http://www.ee.columbia.edu/ln/dvmm/publications/PhD_theses/jrsmith-thesis.pdf). 
@@ -16,6 +17,7 @@ g. Evaluate the performance of these techniques with histograms (i.e. illustrate
 
 
 PCA:
+
 a. Compute the mean image and principal components for a set of images (e.g. use the training images of ‘5’ in the mnist dataset). Display the mean image and the first 2 principal components (associated with the highest eigenvalues). 
 
 b. Compute and display the reconstructions of a test image using the mean image and with p principal components associated with the p highest eigenvalues (e.g. Fig 10.12) with p=10 and p=50. 
